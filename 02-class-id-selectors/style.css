@@ -1,0 +1,18 @@
+/* style.css */
+
+.odd-num {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#colorblue {
+    color:blue;
+    font-size: 36px;
+}
+.largefont {
+    font-size: 24px;
+}
+
+#bggreenbold {
+    background-color: greenyellow;
+    font-weight: bold;
+}
